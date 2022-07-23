@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="WJPm^9p-nP9R{oC%|Nvh" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="servoservosetangle" id="bs]0)nqJ7yV[[Xa]I(S0"><field name="servo">servos.P1</field><value name="degrees"><shadow type="protractorPicker" id="JiHH!JkP,^.xf@jBLQ2%"><field name="angle">180</field></shadow></value></block></statement></block><block type="device_button_event" id="f0vI_%|CDdfhYc5w41=f" x="369" y="0"><field name="NAME">Button.B</field></block><block type="device_forever" id="@|D5#.f+~uRs]v?`4gFc" x="0" y="173"><statement name="HANDLER"><block type="device_show_leds" id=")gf3Ffl)]#P,2?,*!9:,"><field name="LEDS">`
+        # # . # # 
+        # # # # # 
+        . # # # . 
+        # # # # # 
+        # # . # #
+        `</field></block></statement></block></xml>
